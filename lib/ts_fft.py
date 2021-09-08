@@ -7,7 +7,7 @@ def ts_fft(signal, sample_rate):
     """Calculate the fft
 
     :param signal:
-    :sample_rate:
+    :param sample_rate:
     :returns signal_fft:
     :returns freqs:
     """
