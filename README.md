@@ -11,7 +11,7 @@ Oscar Lundberg, 2021-09-06
 To create the environment
 
 ```
-conda env create -f environmeny.yml
+conda env create -f environment.yml
 ```
 
 To export environment use 
