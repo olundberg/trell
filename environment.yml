@@ -1,0 +1,9 @@
+name: trell
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyterlab
+  - pandas
+  - statsmodels
+  - numpy
