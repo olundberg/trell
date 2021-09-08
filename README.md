@@ -10,14 +10,14 @@ Oscar Lundberg, 2021-09-06
 
 To create the environment
 
-'''
+```
 conda env create -f environmeny.yml
-'''
+```
 
 To export environment use 
-'''
+```
 conda env export --from-history | grep -v "^prefix: " > environment.yml
-'''
+```
 
 ## Project structure
 
